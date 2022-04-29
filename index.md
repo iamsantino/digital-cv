@@ -25,7 +25,6 @@
 > 2016 - 2020
 
 > 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
-#### Best Programmer Awardee
 
 # Works/Projects
 #### Hulaan mo Logic Game
@@ -33,6 +32,14 @@
 
 
 [https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
+#### HAMC Payment System
+> Software written in java
+
+#### Asian Institute of Computer Studies Qualifying Exam
+> Automated Software written in java
+
+#### Integrated Development Learning Guide
+> Learning sofware for the students of F. Serrano Sr. Elementary School
 
 # Certifications
 ## Cerificate of Course Completion in CCNA Routing and Switching:
