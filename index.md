@@ -30,7 +30,8 @@
 
 > 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
 
-Best Programmer Awardee
+> Best Programmer Awardee
+
 # Certifications
 ## Cerificate of Course Completion in CCNA Routing and Switching:
 > Introduction to Networks, Connecting Networks, Routing and Switching Essentials and Escaling Network
@@ -41,7 +42,6 @@ Best Programmer Awardee
 - Cisco’s approach to threat detection and defense
 - Why cybersecurity is a growing profession
 - Opportunities available for pursuing network security certifications
-
 # Honors & Awards
 ## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
 > Mar 2020
