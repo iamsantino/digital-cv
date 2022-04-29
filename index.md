@@ -11,7 +11,7 @@
 - Network Troubleshooting
 - Programming (Java, C++, Basic HTML)
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
-- Photo Editing (Photoshop)
+- Photo Editing
 
 
 # Experience
@@ -24,7 +24,7 @@
 #### Bachelor of Science, Computer Science
 > 2016 - 2020
 
-> 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
+> 1571 Triangle Bldg., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
 
 # Works/Projects
 #### Hulaan mo Logic Game
