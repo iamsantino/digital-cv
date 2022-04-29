@@ -5,6 +5,7 @@
 # Summary
 # CAREER OBJECTIVE
 > Seeking a challenging career with a progressive organization provides opportunity to capitalize my technical skills & abilities in the field of information technology (IT).
+
 # TECHNICAL SKILLS
 - Hardware Troubleshooting
 - Network Troubleshooting
@@ -17,6 +18,7 @@
 - Programming (Java, C++, Basic HTML)
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
+
 # Experience
 ## Intern
 ### Ariva Events Management (January 2020 – April 2020)
@@ -39,6 +41,7 @@ Best Programmer Awardee
 - Cisco’s approach to threat detection and defense
 - Why cybersecurity is a growing profession
 - Opportunities available for pursuing network security certifications
+
 # Honors & Awards
 ## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
 > Mar 2020
