@@ -53,6 +53,7 @@
 # Certifications
 ## Certificate of Course Completion in CCNA Routing and Switching:
 > Introduction to Networks, Connecting Networks, Routing and Switching Essentials and Escaling Network
+
 ## Introduction to Cybersecurity
 - Global implications of cyber threats
 - Ways in which networks are vulnerable to attack
