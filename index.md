@@ -32,7 +32,6 @@
 > 2016 - 2020
 
 > 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
-
 #### Best Programmer Awardee
 
 # Works/Projects
