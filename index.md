@@ -2,8 +2,8 @@
 # DEXTER FEBRIO
 [febriodexter@gmail.com](febriodexter@gmail.com)
 [linkedin.com/in/dexter-febrio-888bb81b6](linkedin.com/in/dexter-febrio-888bb81b6)
-## Summary
-CAREER OBJECTIVE
+# Summary
+# CAREER OBJECTIVE
 > Seeking a challenging career with a progressive organization provides opportunity to capitalize my technical skills & abilities in the field of information technology (IT).
 # TECHNICAL SKILLS
 - Hardware Troubleshooting
