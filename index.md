@@ -13,14 +13,6 @@
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
 
-
-# PERSONAL SKILLS
-- Hardware Troubleshooting
-- Network Troubleshooting
-- Programming (Java, C++, Basic HTML)
-- Microsoft Office (Word, Excel, Presentation, Access etc.)
-- Photo Editing (Photoshop)
-
 # Experience
 ## Intern
 #### Ariva Events Management (January 2020 – April 2020)
