@@ -32,14 +32,13 @@
 
 > Year 2016
 
+[https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 
 #### Integrated Development Learning Guide
 > Learning software for the students of F. Serrano Sr. Elementary School
 
 > Year 2017
 
-
-[https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 #### HAMC Payment System
 > Software written in java
 
