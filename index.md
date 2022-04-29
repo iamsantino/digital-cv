@@ -2,10 +2,9 @@
 [febriodexter@gmail.com](febriodexter@gmail.com)
 [linkedin.com/in/dexter-febrio-888bb81b6](linkedin.com/in/dexter-febrio-888bb81b6)
 
-## Summary
-### CAREER OBJECTIVE
+# Summary
+# CAREER OBJECTIVE
 > Seeking a challenging career with a progressive organization provides opportunity to capitalize my technical skills & abilities in the field of information technology (IT).
-
 
 # TECHNICAL SKILLS
 - Hardware Troubleshooting
@@ -13,8 +12,6 @@
 - Programming (Java, C++, Basic HTML)
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
-
-
 # PERSONAL SKILLS
 - Hardware Troubleshooting
 - Network Troubleshooting
@@ -22,12 +19,10 @@
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
 
-
 # Experience
 ## Intern
 ### Ariva Events Management (January 2020 – April 2020)
 > Faxing, advertising and sending invitations upcoming event in social media platforms. Encodes and secured data information.
-
 
 # Education
 ## Asian Institute of Computer Studies
@@ -37,7 +32,6 @@
 > 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
 
 Best Programmer Awardee
-
 
 # Certifications
 ## Cerificate of Course Completion in CCNA Routing and Switching:
@@ -49,7 +43,6 @@ Best Programmer Awardee
 - Cisco’s approach to threat detection and defense
 - Why cybersecurity is a growing profession
 - Opportunities available for pursuing network security certifications
-
 
 # Honors & Awards
 ## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
