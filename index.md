@@ -13,6 +13,7 @@
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
 
+
 # PERSONAL SKILLS
 - Hardware Troubleshooting
 - Network Troubleshooting
@@ -37,7 +38,7 @@ Best Programmer Awardee
 # Works/Projects
 #### Hulaan mo Logic Game
 > My first project written in C++.
-(https://github.com/iamsantino/Hulaan-mo-logic-game.git)
+[https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 
 # Certifications
 ## Cerificate of Course Completion in CCNA Routing and Switching:
