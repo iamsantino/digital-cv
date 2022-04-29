@@ -34,7 +34,7 @@
 
 
 #### Integrated Development Learning Guide
-> Learning sofware for the students of F. Serrano Sr. Elementary School
+> Learning software for the students of F. Serrano Sr. Elementary School
 
 > Year 2017
 
