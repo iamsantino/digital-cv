@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# digital-cv
+# DEXTER FEBRIO
+[febriodexter@gmail.com](febriodexter@gmail.com)
+[linkedin.com/in/dexter-febrio-888bb81b6](linkedin.com/in/dexter-febrio-888bb81b6)
+## Summary
+CAREER OBJECTIVE
+> Seeking a challenging career with a progressive organization provides opportunity to capitalize my technical skills & abilities in the field of information technology (IT).
+# TECHNICAL SKILLS
+- Hardware Troubleshooting
+- Network Troubleshooting
+- Programming (Java, C++, Basic HTML)
+- Microsoft Office (Word, Excel, Presentation, Access etc.)
+- Photo Editing (Photoshop)
+# PERSONAL SKILLS
+- Hardware Troubleshooting
+- Network Troubleshooting
+- Programming (Java, C++, Basic HTML)
+- Microsoft Office (Word, Excel, Presentation, Access etc.)
+- Photo Editing (Photoshop)
+# Experience
+## Intern
+### Ariva Events Management (January 2020 – April 2020)
+> Faxing, advertising and sending invitations upcoming event in social media platforms. Encodes and secured data information.
+# Education
+## Asian Institute of Computer Studies
+#### Bachelor of Science, Computer Science
+> 2016 - 2020
 
-You can use the [editor on GitHub](https://github.com/iamsantino/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamsantino/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Best Programmer Awardee
+# Certifications
+## Cerificate of Course Completion in CCNA Routing and Switching:
+> Introduction to Networks, Connecting Networks, Routing and Switching Essentials and Escaling Network
+## Introduction to Cybersecurity
+- Global implications of cyber threats
+- Ways in which networks are vulnerable to attack
+- Impact of cyber-attacks on industries
+- Cisco’s approach to threat detection and defense
+- Why cybersecurity is a growing profession
+- Opportunities available for pursuing network security certifications
+# Honors & Awards
+## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
+> Mar 2020
