@@ -23,6 +23,7 @@
 ## Intern
 ### Ariva Events Management (January 2020 – April 2020)
 > Faxing, advertising and sending invitations upcoming event in social media platforms. Encodes and secured data information.
+
 # Education
 ## Asian Institute of Computer Studies
 #### Bachelor of Science, Computer Science
@@ -42,6 +43,7 @@
 - Cisco’s approach to threat detection and defense
 - Why cybersecurity is a growing profession
 - Opportunities available for pursuing network security certifications
+ 
 # Honors & Awards
 ## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
 > Mar 2020
