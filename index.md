@@ -13,6 +13,7 @@
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
 
+
 # Experience
 ## Intern
 #### Ariva Events Management (January 2020 – April 2020)
