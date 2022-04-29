@@ -29,11 +29,13 @@
 # Works/Projects
 #### Hulaan mo Logic Game
 > My first project written in C++
-2016
+> 2016
+
 
 #### Integrated Development Learning Guide
 > Learning sofware for the students of F. Serrano Sr. Elementary School
 > 2017
+
 
 [https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 #### HAMC Payment System
