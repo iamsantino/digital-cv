@@ -12,6 +12,7 @@
 - Programming (Java, C++, Basic HTML)
 - Microsoft Office (Word, Excel, Presentation, Access etc.)
 - Photo Editing (Photoshop)
+
 # PERSONAL SKILLS
 - Hardware Troubleshooting
 - Network Troubleshooting
@@ -21,7 +22,7 @@
 
 # Experience
 ## Intern
-### Ariva Events Management (January 2020 – April 2020)
+#### Ariva Events Management (January 2020 – April 2020)
 > Faxing, advertising and sending invitations upcoming event in social media platforms. Encodes and secured data information.
 
 # Education
@@ -34,9 +35,10 @@
 Best Programmer Awardee
 
 # Works/Projects
-## Hulaan mo Logic Game
+#### Hulaan mo Logic Game
 > My first project written in C++.
 (https://github.com/iamsantino/Hulaan-mo-logic-game.git)
+
 # Certifications
 ## Cerificate of Course Completion in CCNA Routing and Switching:
 > Introduction to Networks, Connecting Networks, Routing and Switching Essentials and Escaling Network
