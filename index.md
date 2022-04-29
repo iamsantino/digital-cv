@@ -63,5 +63,6 @@
 - Opportunities available for pursuing network security certifications
 
 # Honors & Awards
-## Best Programmer Award - ASIAN INSTITUTE OF COMPUTER STUDIES
-> Mar 2020
+## Best Programmer Award 
+> ASIAN INSTITUTE OF COMPUTER STUDIES
+> March 2020
