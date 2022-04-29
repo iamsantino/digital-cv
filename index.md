@@ -29,22 +29,26 @@
 # Works/Projects
 #### Hulaan mo Logic Game
 > My first project written in C++
-> 2016
+
+> Year 2016
 
 
 #### Integrated Development Learning Guide
 > Learning sofware for the students of F. Serrano Sr. Elementary School
-> 2017
+
+> Year 2017
 
 
 [https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 #### HAMC Payment System
 > Software written in java
-> 2018
+
+> Year 2018
 
 #### Asian Institute of Computer Studies Qualifying Exam
 > Automated Software written in java
-> 2019
+
+> Year 2019
 
 
 # Certifications
