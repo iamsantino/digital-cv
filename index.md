@@ -1,6 +1,6 @@
 # DEXTER FEBRIO
-[febriodexter@gmail.com](febriodexter@gmail.com)
-[linkedin.com/in/dexter-febrio-888bb81b6](linkedin.com/in/dexter-febrio-888bb81b6)
+[febriodexter@gmail.com](mailto:febriodexter@gmail.com)
+[linkedin.com/in/dexter-febrio-888bb81b6](https://www.linkedin.com/in/dexter-febrio-888bb81b6)
 
 # Summary
 # CAREER OBJECTIVE
