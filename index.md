@@ -33,11 +33,13 @@
 
 > 1571 Triangle Bled., Doña Soledad Ave., Better Living Subd. Bicutan Parañaque
 
-Best Programmer Awardee
+#### Best Programmer Awardee
 
 # Works/Projects
 #### Hulaan mo Logic Game
-> My first project written in C++.
+> My first project written in C++
+
+
 [https://github.com/iamsantino/Hulaan-mo-logic-game.git](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
 
 # Certifications
