@@ -32,7 +32,7 @@
 
 > Year 2016
 
-[https://iamsantino.github.io/digital-cv/](https://github.com/iamsantino/Hulaan-mo-logic-game.git)
+[https://iamsantino.github.io/digital-cv/](https://iamsantino.github.io/digital-cv/)
 
 #### Integrated Development Learning Guide
 > Learning software for the students of F. Serrano Sr. Elementary School
