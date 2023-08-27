@@ -7,6 +7,8 @@
 > Seeking a challenging career with a progressive organization provides opportunity to capitalize my technical skills & abilities in the field of information technology (IT).
 
 # TECHNICAL SKILLS
+- IT Support Specialist
+- Software Troubleshooting
 - Hardware Troubleshooting
 - Network Troubleshooting
 - Programming (Java, C++, Basic HTML)
@@ -15,6 +17,9 @@
 
 
 # Experience
+## IT Helpdesk Support
+#### Smartcomp Solutions Inc.
+> Provide IT service support to achive customer satisfaction.
 ## Intern
 #### Ariva Events Management (January 2020 – April 2020)
 > Faxing, advertising and sending invitations upcoming event in social media platforms. Encodes and secured data information.
